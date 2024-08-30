@@ -27,7 +27,14 @@ Heute habe ich alle Moodle-Aufträge machen können, das ist gut, denn das Modul
 - [ ] Moodle Auftrag 4206
 - [ ] 4207
 
+Ich habe heute Gut an den Modulen gearbeitet. Ich habe Methoden repetiert und verinnerlicht. Das Programmieren war ein bisschen holperige, denn ich habe alles vom letzten Mal vergessen was Herr Colic erklärt hat. Wenn ich das nächste Mal so ein Projekt anfangen will, werde ich es als erstes Anfangen, denn dann bleibt mein Wissen von den Inputs. 
 
-##
+
+## 06.09.
+- [ ] ein Projekt mit Objekten starten wie Schach oder so
+- [ ] problem mit dem Speichern lösen
+- [ ] Metodhen zusammenfassung schreiben
+- [ ] Moodle auftrag 4219
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
