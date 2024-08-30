@@ -18,6 +18,8 @@ Heute habe ich mich an das Programmierprojekt von Herrn Colic gewagt. Das Projek
 - [X] Moodle Auftrag 4203
 - [X] 4204
 - [ ]
+
+
 Heute habe ich alle Moodle-Aufträge machen können, das ist gut, denn das Modul 320 ist ein Grundlagen-Modul. Leider konnte ich nicht an meinen Programmierfähigkeiten weiter arbeitet, da wir heute gekürzten Unterricht hatten. Im Modul haben wir über die Methoden neues gelernt, ich habe diese in einer Übung implementiert.
 
 
