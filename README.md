@@ -32,9 +32,21 @@ Ich habe heute Gut an den Modulen gearbeitet. Ich habe Methoden repetiert und ve
 
 ## 06.09.
 - [ ] ein Projekt mit Objekten starten wie Schach oder so
-- [ ] problem mit dem Speichern lösen
-- [ ] Metodhen zusammenfassung schreiben
-- [ ] Moodle auftrag 4219
+- [x] problem mit dem Speichern lösen
+- [X] Metodhen zusammenfassung schreiben
+- [x] Moodle auftrag 4219
+
+Heute hatten wir zum ersten Mal Onlineunterricht im Lernatelier, mit einem neuem Rieder 2.0 System. Dieses System habe ich sehr genossen, da es ein Arbeitspacket im DSL macht und ich mehr Zeit habe fürs Mittagessen. In der heutigen Session habe ich eine Zusammenfassung zu Methoden geschrieben und anstatt ein Programmierprojekt mit einer Website begonnen.
+
+## 13.09
+- [ ] MockUp machen
+- [ ] Projekt abschliessen
+- [ ] Moodle auftrag 4220
+- [ ] 
+
+
+
+
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
