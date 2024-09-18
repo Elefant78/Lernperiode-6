@@ -42,7 +42,14 @@ Heute hatten wir zum ersten Mal Onlineunterricht im Lernatelier, mit einem neuem
 - [ ] MockUp machen
 - [ ] Projekt abschliessen
 - [ ] Moodle auftrag 4220
-- [ ] 
+
+Diese Woche habe ich folgendes gemacht: Am Dienstag habe ich mein MockUp für meine Website gemacht, ich habe mich an mein vorheriges MockUp inspiriert und eins zwei Verbesserungen erledigt. Am nächtsen Tag habe ich mein Projekt abgeschlossen, es war schwierig, doch nach ein Paar minuteten war ich wieder drinnen. Der Moodle Autrag ist halt ein Klassischer Auftrag.
+
+## 20.09
+- [ ] MockUp Implementieren
+- [ ] Left-Right-Middle Game grundgerüst
+- [ ] LA 7420
+- [ ] LA 7421
 
 
 
