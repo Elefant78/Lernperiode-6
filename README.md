@@ -46,10 +46,17 @@ Heute hatten wir zum ersten Mal Onlineunterricht im Lernatelier, mit einem neuem
 Diese Woche habe ich folgendes gemacht: Am Dienstag habe ich mein MockUp für meine Website gemacht, ich habe mich an mein vorheriges MockUp inspiriert und eins zwei Verbesserungen erledigt. Am nächtsen Tag habe ich mein Projekt abgeschlossen, es war schwierig, doch nach ein Paar minuteten war ich wieder drinnen. Der Moodle Autrag ist halt ein Klassischer Auftrag.
 
 ## 20.09
-- [ ] MockUp Implementieren
-- [ ] Left-Right-Middle Game grundgerüst
-- [ ] LA 7420
-- [ ] LA 7421
+- [ ] Sechs User Stories erstellen für die LB 322
+- [ ] Personna erstellen für die LB 322
+- [ ] Low-Fideltiy-Produc erstellen für die LB 322
+- [ ] Szenarien erstellen für die LB 322
+
+Heute habe ich mit Szymon Rybicki zusammen an einem Project gearbeitet, wir haben verschiedenste Dinge wie Personas, User Stories, Szenarien und Low-Fideltiy-Product gemacht. Ich hatte zunächst etwas anderes vor im Lernatelier zu machen, doch harte Zeiten fordern harte Opfer. Ich hoffe, dass ich das nächste Mal etwas anderes als LB machen kann.
+
+## 27.09
+- [ ] LA 7220
+- [ ] LA 7221
+- [ ] Richt-Left-Centre Grundgerüst Schaffen
 
 
 
